@@ -1,0 +1,15 @@
+; AMXX modules
+mysql
+sqlite
+fun
+engine
+fakemeta
+geoip
+nvault
+cstrike
+csx
+hamsandwich
+reapi
+easy_http
+sockets
+regex

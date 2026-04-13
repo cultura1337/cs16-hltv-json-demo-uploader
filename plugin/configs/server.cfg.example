@@ -1,0 +1,11 @@
+mjl_api_enabled "1"
+mjl_api_url "http://172.17.0.1/api/matches/json"
+mjl_api_key "CHANGE_ME"
+mjl_api_timeout "30"
+mjl_api_auto_send_finalize "1"
+mjl_reset_after_finalize "0"
+mjl_server_uid "subcultura_mix"
+
+mjl_demo_provider "HLTV"
+mjl_demo_filename ""
+mjl_demo_path ""

@@ -1,0 +1,8 @@
+*.log
+*.zip
+*.tar.gz
+.env
+config.php
+loader/config.php
+.DS_Store
+Thumbs.db
